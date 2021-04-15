@@ -1,2 +1,3 @@
-# droid-hellowolrd
-Android Studio basic mobile app
+# Android Studio app
+
+Basic Android Studio mobile app.
